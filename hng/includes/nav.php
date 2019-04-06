@@ -16,8 +16,11 @@
       <ul class="side_nav">
         <li><a class="side_nav" href="#home">Home</a></li>
         <li><a class="side_nav" href="#news">News</a></li>
+        <!––
+        Links not included in design. remove comment if need later be.
         <li><a class="side_nav" href="#contact">Contact</a></li>
         <li><a class="side_nav" href="#about">About</a></li>
+        -->
       </ul>
     </div>
   </div>
